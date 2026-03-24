@@ -66,6 +66,6 @@
 
 ## 📫 Connect With Me
 
-📧 Email: josekabz00@gmail.com
-🌐 Portfolio: https://joseph-ndungu.vercel.app/
-💼 LinkedIn: https://www.linkedin.com/in/joseph-ndungu-ab21293aa/
+📧 Email: josekabz00@gmail.com \n
+🌐 Portfolio: https://joseph-ndungu.vercel.app/ \n
+💼 LinkedIn: https://www.linkedin.com/in/joseph-ndungu-ab21293aa/ \n
