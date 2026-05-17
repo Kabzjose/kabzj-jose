@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=kabzjose&color=blue)
+
 <h1 align="center">Joseph Ndungu</h1>
 
 <p align="center">
